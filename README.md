@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS, ElectronJS, NodeJS, PHP, Bootstrap, and how Databases work.
 - 💞️ I’m looking to collaborate on Ukrainian projects, and projects designed with ReactJS+ElectronJS.
 - 📫 You can reach me per my
-- Email: minich.business.int@gmail.com;
+- Email: nikita.minich.kiev@gmail.com;
 - Whatsapp: +49 015153315808.
 - ⚡ Fun fact: I am stupid, and am aware of that.
 
