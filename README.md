@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects designed with it in mind to learn more and create something that would be worth it.
 - 📫 You can reach me per my
 - Email: nikita.minich.kiev@gmail.com;
-- Whatsapp: +49 015153315808.
+- Whatsapp: +49 15153315808.
 - ⚡ Fun fact: I am stupid, and am aware of that.
 
 <!---
