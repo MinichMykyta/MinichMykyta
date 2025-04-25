@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MinichMykyta
-- 👀 I’m interested in making desktop apps with ReactJS and electronJS, along with doing regular Web-Dev.
-- 🌱 I’m currently learning ReactJS, ElectronJS, NodeJS, PHP, Bootstrap, and how Databases work.
-- 💞️ I’m looking to collaborate on Ukrainian projects, and projects designed with ReactJS+ElectronJS.
+- 👀 I’m interested in making desktop Apps currently incorporating MERN stack with typescript, and am planning to study computer science to move on to higher languages such as C++, maybe try Scala out, and in general become a more well-rounded developer.
+- 🌱 I’m currently learning MERN stack, and the back end behind it in particular.
+- 💞️ I’m looking to collaborate on projects designed with it in mind to learn more and create something that would be worth it.
 - 📫 You can reach me per my
 - Email: nikita.minich.kiev@gmail.com;
 - Whatsapp: +49 015153315808.
